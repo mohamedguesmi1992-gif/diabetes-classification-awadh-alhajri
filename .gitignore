@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+Thumbs.db
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
